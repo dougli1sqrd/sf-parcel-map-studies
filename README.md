@@ -10,6 +10,8 @@ So to visualize it I made this project.
 
 Blue areas in the map are parcels that count with regards to the policy, and the red border around a blue parcel is the "banned" sleeping area.
 
+![](data/sf-homeless-not-allowed.png)
+
 # Setting up the project
 
 ## Requirements
