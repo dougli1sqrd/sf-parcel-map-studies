@@ -1,6 +1,6 @@
 # San Francisco Parcels and an Oakland Proposal on Tent Encampments
 
-I recently found an news article that showed that Oakland City Council is proposing a ban on Tent Encampments within certain distances of certain kinds of buildings.
+I recently found an [news article](https://t.co/xsHUcqaf1M) that showed that Oakland City Council is proposing a ban on Tent Encampments within certain distances of certain kinds of buildings.
 
 They propose banning people sleeping outside within 50 feet of Residential, Businesses, and Parks, and within 150 feet of schools.
 
